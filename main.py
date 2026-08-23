@@ -53,7 +53,9 @@ while running:
 
             mx, my = event.pos
 
-            
+    if left_click:
+
+        ...
 
     forest_map.render(screen)
 
